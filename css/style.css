@@ -21,11 +21,14 @@ img {
   background-color: #9FFFEB;
   font-style: italic;
 }
+
 .hobbies{
   float: center;
   clear: both;
-  overflow: auto;
-  background-color: #9FFFEB;
-  font-style: American Typewriter, serif;
+  background-color: #27DFF8;
+  content: "";
+  clear: both;
+  display: table; 
 
 }
+
