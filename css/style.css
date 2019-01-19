@@ -14,3 +14,18 @@ img {
   margin-right: auto;
   width: 50%;
 }
+.tablecolor{
+  float: center;
+  clear: both;
+  overflow: auto;
+  background-color: #9FFFEB;
+  font-style: italic;
+}
+.hobbies{
+  float: center;
+  clear: both;
+  overflow: auto;
+  background-color: #9FFFEB;
+  font-style: American Typewriter, serif;
+
+}
